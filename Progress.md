@@ -1,6 +1,6 @@
 https://www.data.go.kr/data/15063506/openapi.do
 
-해당자료를 csv로 만들었음
+해당자료를 csv로 만들었음  
 문제점
 - 체험 자료가 아님
 - 데이터양이 적음 170행미만
